@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405042149_1ac3566f",
+  "CapturedUtc": "2026-04-05T04:21:49.8823158+00:00",
+  "NormalisedContentHash": "079762CB430480790A1814783965F0CF21FC3A9F2D5D99CB040E1BE681A16432",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "Consult",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Zed\\Consult\\Consult.csproj",
+    "SolutionKey": "1B1BA04905E26EBC",
+    "SourceIdentity": {
+      "IdentityKey": "1B1BA04905E26EBC",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Zed\\Consult\\Consult.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Zed\\Consult",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "62288D11B713010A",
+      "ProjectName": "Consult",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Zed\\Consult\\Consult.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
