@@ -44,3 +44,7 @@ The `Consult` library encapsulates the complete Consult I communication stack: s
 
 - Fuel injector pulse-width test (21 steps)
 - Ignition timing sweep (11 steps)
+
+---
+
+> ECU.cs contains a small helper class by [Tangible Software Solutions](https://www.tangiblesoftwaresolutions.com) (free to use with attribution). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
