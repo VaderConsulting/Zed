@@ -1,5 +1,7 @@
 ﻿# Zed - Nissan Consult ECU Library
 
+**Source last updated:** 2012-10-17
+
 A .NET Framework 4.0 class library implementing the **Nissan Consult I** serial diagnostic protocol. Provides low-level ECU communication, real-time sensor streaming, fault-code retrieval, and active actuator tests for Nissan vehicles.
 
 **Initiated:** 2012-10-16 · **Framework:** .NET Framework 4.0 · **Solution:** `Zed.sln`
