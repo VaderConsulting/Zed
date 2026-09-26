@@ -54,3 +54,21 @@ The `Consult` library encapsulates the complete Consult I communication stack: s
 
 - Visual Studio 2012, .NET Framework 4.0
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `Consult` (`Consult/Consult.csproj`) | C# | Class library (.NET Framework 4.0) | Nissan Consult I serial protocol: ECU handshake, sensor streaming, fault codes, and active tests (`ECU.cs`, `Common.cs`) |
+
+## How to open
+
+Open `Zed.sln` in Visual Studio 2012 or later and build the `Consult` class library.
+
+## Attribution and provenance
+
+Working copy from my Development folder `Zed`.
+`ECU.cs` includes a small helper class by Tangible Software Solutions (free to use with attribution). See `THIRD_PARTY_NOTICES.md`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`. The Tangible Software Solutions helper keeps its original terms; see `THIRD_PARTY_NOTICES.md`.
