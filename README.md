@@ -66,6 +66,8 @@ Open `Zed.sln` in Visual Studio 2012 or later and build the `Consult` class libr
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `Zed`.
 `ECU.cs` includes a small helper class by Tangible Software Solutions (free to use with attribution). See `THIRD_PARTY_NOTICES.md`.
 
